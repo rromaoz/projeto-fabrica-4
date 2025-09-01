@@ -1,4 +1,4 @@
-# 🐂 Ordenador de Bois da Fazenda — Versão Simples (README completo)
+# 🐂 Ordenador de Bois da Fazenda
 
 Um mini-projeto em **Python** para ler **três bois** (nome e peso) e exibir um **ranking do mais pesado para o mais leve**.  
 Pensado para estudantes do **ensino médio**, com linguagem acessível e foco em praticar **entrada de dados**, **conversão para `float`**, **ordenação** e **saída formatada** — tudo com um toque de **mundo real**.
@@ -13,14 +13,14 @@ Pensado para estudantes do **ensino médio**, com linguagem acessível e foco em
 
 ---
 
-## 📖 Histórinha (contexto do mundo real)
+## 📖 Histórinha
 A **Fazenda Rio Claro** foi convidada para uma feira agropecuária e precisa organizar o embarque de **três bois**.  
 Para otimizar a logística (espaço no caminhão, sequência de apresentação e controle de manejo), a equipe decidiu embarcar os animais **do mais pesado para o mais leve**.  
 Você ficou responsável por criar um **programa simples** que peça o **nome** e o **peso** dos bois e mostre um **ranking**. Assim, ninguém perde tempo reordenando os animais na hora da saída! 😉
 
 ---
 
-## 📝 Enunciado (adaptado)
+## 📝 Enunciado
 Faça um programa que pergunte o **nome** e o **peso** de **três bois** e **mostre-os em ordem decrescente de peso** (do mais pesado para o mais leve).
 
 > **Simplificações propositalmente didáticas**
