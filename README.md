@@ -1,7 +1,7 @@
 # 🐂 Ordenador de Bois da Fazenda
 
 Um mini-projeto em **Python** para ler **três bois** (nome e peso) e exibir um **ranking do mais pesado para o mais leve**.  
-Pensado para estudantes do **ensino médio**, com linguagem acessível e foco em praticar **entrada de dados**, **conversão para `float`**, **ordenação** e **saída formatada** — tudo com um toque de **mundo real**.
+Foco em praticar **entrada de dados**, **conversão para `float`**, **ordenação** e **saída formatada** — tudo com um toque de **mundo real**.
 
 ---
 
